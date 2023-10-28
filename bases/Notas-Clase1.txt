@@ -1,0 +1,25 @@
+Tipos de datos
+
+Primitivos: String, Number, Boolean, Symbol
+
+Compuesto: Objetos literales, Funciones, Clases, Arreglos
+
+String: "Maria Perez" o 'Tesla' o `<h1> Hola mundo </h1>`
+
+ Number: PI= 3.14159265 o salary = 1500.01 o age = 30
+
+ Boolean: isActive = true, keepAlive = false
+
+ null y undefined: age= null y hero= undefined
+
+ Symbol= Simbol() sym2= Symbol('myProperty')
+
+ Objetos Literales: person= {name: 'Fernando', age: 35}
+
+ Clases de Objetos: class Person {name; age;}
+
+ Funciones sayHello () {} /// const sayHello = () => {} 
+
+ TypeScript Nos permite crear tipos nuevos, interfaces, genericos y tuplas(son pares de valores)
+
+ 
