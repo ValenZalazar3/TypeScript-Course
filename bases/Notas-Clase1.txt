@@ -22,4 +22,14 @@ String: "Maria Perez" o 'Tesla' o `<h1> Hola mundo </h1>`
 
  TypeScript Nos permite crear tipos nuevos, interfaces, genericos y tuplas(son pares de valores)
 
+
+
+
+ Notas extras a lo que seria la clase 1 
+
+ el tsconfig te permite poner en consola el tsc solamente y con eso "transpila" todos lo archivos que tengas de ts.
+ademas de que te permite usar el modo estricto y configurar ts.
+con el comando ts --watch lo que haces es poner al ts config en modo observador para que todo el tiempo este actualizando el archivo y asi transpilando continuamente. Esto lo que hace es automatizar el estar escribiendo continuamente tsc para compilar manualmente los archivos que tenes
+
+
  
