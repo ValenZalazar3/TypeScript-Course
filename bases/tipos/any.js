@@ -9,4 +9,4 @@
   avengers = 150.2325123
   console.log(avengers.toFixed(2))
   // con any perdes toda ayuda de tipado
-})() // any
+})()
