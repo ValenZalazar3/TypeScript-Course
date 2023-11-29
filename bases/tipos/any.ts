@@ -13,3 +13,5 @@
 
   // con any perdes toda ayuda de tipado
 })()
+
+//  any es un tipo de dato que puede ser cualquiera
