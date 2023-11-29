@@ -13,5 +13,3 @@
 
   // con any perdes toda ayuda de tipado
 })()
-
-// Tipos de datos
